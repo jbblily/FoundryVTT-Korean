@@ -1,0 +1,24 @@
+{
+	"name": "lang-ko",
+	"title": "(alt)Translation : Korean [Core]",
+	"description": "Foundry VTT의 코어 소프트웨어 한국어 번역 모듈입니다. 기존의 코어 번역이 업데이트되고 있지 않아 임시로 사용할 수 있는 모듈입니다.<br> The alternate module for Core translation into Korean.",
+	"version": "0.1.0",
+    "minimumCoreVersion": "0.6.0",
+    "compatibleCoreVersion": "0.8.8",
+	"author": "jbblily",
+	"coreTranslation": true,
+	"languages": [
+		{
+			"lang": "ko",
+			"name": "Korean",
+			"path": "module/ko.json"
+		}
+	],
+    "scripts": [],
+    "styles" : [],
+    "packs": [],
+    
+	"url" : "https://github.com/jbblily/FoundryVTT-Korean",
+	"manifest" : "https://raw.githubusercontent.com/BrotherSharper/foundryVTTja/main/module.json",
+    "download" : "https://github.com/jbblily/FoundryVTT-Korean/archive/main.zip"
+}
