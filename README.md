@@ -2,7 +2,7 @@
 ## Foundry VTT 한글화 모듈
 다운로드 링크 : https://raw.githubusercontent.com/jbblily/FoundryVTT-Korean/main/module.json
 
-##사용법
+## 사용법
 상단의 링크를 모듈 파인더에 붙여넣어 다운로드하세요. 
 
 모듈 목록에서 (alt) Translation : Korean [Core] 가 다운로드되었는지 확인하세요.
