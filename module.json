@@ -17,8 +17,8 @@
     "scripts": [],
     "styles" : [],
     "packs": [],
-    
+
 	"url" : "https://github.com/jbblily/FoundryVTT-Korean",
-	"manifest" : "https://raw.githubusercontent.com/BrotherSharper/foundryVTTja/main/module.json",
+	"manifest" : "https://raw.githubusercontent.com/jbblily/FoundryVTT-Korean/main/module.json",
     "download" : "https://github.com/jbblily/FoundryVTT-Korean/archive/main.zip"
 }
