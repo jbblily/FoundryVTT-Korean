@@ -23,5 +23,5 @@
 ![image](https://user-images.githubusercontent.com/18694887/128638099-2108da66-909a-43a9-a5ff-90571cc23fa9.png)
 
 
-**별도로 월드 내에서 모듈을 활성화할 필요는 없습니다만, CSS 설정 (워드 브레이크, 글꼴 Noto Sans KR) 을 적용하려면 활성화해주세요. **
+**별도로 월드 내에서 모듈을 활성화할 필요는 없습니다만, CSS 설정 (워드 브레이크, 글꼴 Noto Sans KR) 을 적용하려면 활성화해주세요.**
 
