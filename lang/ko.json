@@ -425,7 +425,7 @@
     "EFFECT.StatusDegen": "괴사",
     "EFFECT.StatusUpgrade": "강화",
     "EFFECT.StatusDowngrade": "약화",
-    "EFFECT.StatusTarget": "대상",
+    "EFFECT.StatusTarget": "표적",
     "EFFECT.StatusMarked": "징표",
     "EFFECT.StatusCursed": "저주",
     "EFFECT.StatusBlessed": "축복",
