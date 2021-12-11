@@ -1,4 +1,7 @@
 # Change Log
+
+v 0.2.3 - Revised missing tags & Edit typos. This is the final version of FVTT Core 0.8.9 Translation.
+
 v 0.2.2 - Revised some typos
 
 v 0.2.0 - Core FVTT 0.8.9 changes updated
