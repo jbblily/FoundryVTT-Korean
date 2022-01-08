@@ -1,4 +1,5 @@
 # Change Log
+v 0.3.3 - Typo editted : 오역/어색한 번역 수정, 카드 관련 번역 수정 등 번역 개선.
 
 v 0.3.1 - Minor typos editted
 
