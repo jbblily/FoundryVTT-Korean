@@ -1,4 +1,8 @@
 # Change Log
+v 0.4.0 - v10 Migration : 10 안정화 버전 대응. 8버전의 오래된 키 삭제
+
+v 0.3.4 - minor typos editted (related to cards)
+
 v 0.3.3 - Typo editted : 오역/어색한 번역 수정, 카드 관련 번역 수정 등 번역 개선.
 
 v 0.3.1 - Minor typos editted
@@ -12,5 +16,3 @@ v 0.2.2 - Revised some typos
 v 0.2.0 - Core FVTT 0.8.9 changes updated
 
 v 0.1.4 - Listed this module to official FVTT module list
-
-v 0.3.4 - minor typos editted (related to cards)
