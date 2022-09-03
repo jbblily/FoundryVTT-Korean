@@ -22,7 +22,7 @@
 
 	"url" : "https://github.com/jbblily/FoundryVTT-Korean",
 	"manifest" : "https://raw.githubusercontent.com/jbblily/FoundryVTT-Korean/main/module.json",
-    "download" : "https://github.com/jbblily/FoundryVTT-Korean/archive/refs/tags/v0.4.1.zip",
+    "download" : "https://github.com/jbblily/FoundryVTT-Korean/archive/refs/tags/v0.4.2.zip",
 
 
 	"name": "lang-ko",

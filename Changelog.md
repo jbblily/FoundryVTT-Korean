@@ -1,4 +1,6 @@
 # Change Log
+v 0.4.2 - missing keys added
+
 v 0.4.1 - manifest adjested
 
 v 0.4.0 - v10 Migration : 10 안정화 버전 대응. 8버전의 오래된 키 삭제
