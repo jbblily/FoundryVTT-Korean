@@ -295,22 +295,12 @@
     "CONTROLS.BasicMeasure": "거리 측정",
     "CONTROLS.GroupMeasure": "측정",
     "CONTROLS.MeasureType": "측정 템플릿 타입",
-    
-
-    "CONTROLS.MeasureBorder": "측정 외곽선 색상",
-    
-
     "CONTROLS.MeasureConfigHint": "측정 템플릿의 배치 및 표시 설정입니다",
     "CONTROLS.MeasureCircle": "원형 템플릿",
     "CONTROLS.MeasureCone": "원뿔형 템플릿",
     "CONTROLS.MeasureRect": "직사각형 템플릿",
     "CONTROLS.MeasureRay": "직선형 템플릿",
     "CONTROLS.MeasureClear": "모든 템플릿 삭제",
-
-
-    "CONTROLS.MeasureTemplate": "템플릿 텍스처",
-
-
     "CONTROLS.GroupTile": "타일",
     "CONTROLS.TileSelect": "타일 선택",
     "CONTROLS.TilePlace": "타일 배치",
@@ -446,16 +436,16 @@
 
     "DOCUMENT.ActiveEffect": "활성화된 효과",
     "DOCUMENT.ActiveEffects": "활성화된 효과",
-    "DOCUMENT.Actor": "액터",
+    "DOCUMENT.Actor": "Actor",
     "DOCUMENT.Actors": "액터",
-    "DOCUMENT.Adventure": "어드벤처",
+    "DOCUMENT.Adventure": "Adventure",
     "DOCUMENT.Adventures": "어드벤처",
-    "DOCUMENT.AmbientLight": "앰비언트 라이트",
+    "DOCUMENT.AmbientLight": "Ambient Light",
     "DOCUMENT.AmbientLights": "앰비언트 라이트",
-    "DOCUMENT.AmbientSound": "앰비언트 사운드",
+    "DOCUMENT.AmbientSound": "Ambient Sound",
     "DOCUMENT.AmbientSounds": "앰비언트 사운드",
     "DOCUMENT.Card": "카드",
-    "DOCUMENT.Cards": "카드 스택",
+    "DOCUMENT.Cards": "Card Stack",
     "DOCUMENT.CardsPlural": "카드 스택",
     "DOCUMENT.ChatMessage": "대화 메시지",
     "DOCUMENT.ChatMessages": "대화 메시지",
@@ -468,42 +458,38 @@
     "DOCUMENT.Drawings": "그림",
     "DOCUMENT.Folder": "폴더",
     "DOCUMENT.Folders": "폴더",
-    "DOCUMENT.Item": "아이템",
+    "DOCUMENT.Item": "Item",
     "DOCUMENT.Items": "아이템",
-    "DOCUMENT.JournalEntry": "저널",
+    "DOCUMENT.JournalEntry": "Journal Entry",
     "DOCUMENT.JournalEntries": "저널",
     "DOCUMENT.JournalEntryPage": "페이지",
     "DOCUMENT.JournalEntryPages": "페이지",
-    "DOCUMENT.Macro": "매크로",
+    "DOCUMENT.Macro": "Macro",
     "DOCUMENT.Macros": "매크로",
     "DOCUMENT.MeasuredTemplate": "측정 템플릿",
     "DOCUMENT.MeasuredTemplates": "측정 템플릿",
     "DOCUMENT.Note": "노트",
     "DOCUMENT.Notes": "노트",
-    "DOCUMENT.Playlist": "재생목록",
+    "DOCUMENT.Playlist": "Playlist",
     "DOCUMENT.Playlists": "재생목록",
     "DOCUMENT.PlaylistSound": "재생목록 사운드",
     "DOCUMENT.PlaylistSounds": "재생목록 사운드",
-    "DOCUMENT.Scene": "장면",
+    "DOCUMENT.Scene": "Scene",
     "DOCUMENT.Scenes": "장면",
     "DOCUMENT.Setting": "설정",
     "DOCUMENT.Settings": "설정",
-    "DOCUMENT.RollTable": "굴림표",
+    "DOCUMENT.RollTable": "RollTable",
     "DOCUMENT.RollTables": "굴림표",
     "DOCUMENT.TableResult": "표 결과",
     "DOCUMENT.TableResults": "표 결과",
     "DOCUMENT.Tile": "타일",
-    "DOCUMENT.Tiles": "타일\n",
+    "DOCUMENT.Tiles": "타일",
     "DOCUMENT.Token": "토큰",
     "DOCUMENT.Tokens": "토큰",
     "DOCUMENT.User": "유저",
     "DOCUMENT.Users": "유저",
     "DOCUMENT.Wall": "벽",
     "DOCUMENT.Walls": "벽",
-
-
-    "DRAWING.ConfigTitle": "그리기 도구 설정",
-
 
     "DRAWING.ConfigDefaultTitle": "기본값 설정",
     "DRAWING.SubmitDefault": "기본값 설정",
@@ -519,11 +505,6 @@
     "DRAWING.NoteFill": "그림의 내부 채우기 설정을 조정합니다.",
     "DRAWING.NoteText": "이 그림에 적용된 텍스트 제목을 조정합니다. (하나라도 있는 경우).",
     "DRAWING.Author": "만든 이",
-
-
-    "DRAWING.PosX": "X축 위치",
-    "DRAWING.PosY": "Y축 위치",
-
 
     "DRAWING.Width": "너비",
     "DRAWING.Height": "높이",
@@ -1165,12 +1146,7 @@
     "SETTINGS.AnimLightL": "광원 애니메이션 허용. 비활성화시 저사양 기기의 성능이 향상됩니다.",
     "SETTINGS.FPSMeterN": "FPS 미터기 표시",
     "SETTINGS.FPSMeterL": "우측 하단에 프레임레이트 미터기를 표시해 초당 프레임 수로 렌더링 성능을 확인할 수 있습니다.",
-    
-    
-    "SETTINGS.ResScaleN": "픽셀 해상도 비율 조정",
-    "SETTINGS.ResScaleL": "브라우저의 픽셀 비율에 맞추어 게임 캔버스의 해상도를 조정합니다. 이 설정을 활성화하면 레티나 디스플레이와 같은 고밀도 화소의 디스플레이에서는  해상도가 좋아지지만, 어플리케이션의 성능은 저하될 수 있습니다. 또한, 해상도는 브라우저의 확대/축소 정도나 운영체제의 디스플레이 설정에 영향을 받을 수 있습니다. 이 설정을 비활성화하면 성능은 향상되지만 고밀도 화소 디스플레이의 시각적 품질은 떨어질 수 있습니다.",
-
-
+   
     "SETTINGS.ResolutionScaleN": "픽셀 해상도 비율 조정",
     "SETTINGS.ResolutionScaleL": "브라우저의 픽셀 비율에 맞추어 게임 캔버스의 해상도를 조정합니다. 이 설정을 활성화하면 레티나 디스플레이와 같은 고밀도 화소의 디스플레이에서는  해상도가 좋아지지만, 어플리케이션의 성능은 저하될 수 있습니다. 또한, 해상도는 브라우저의 확대/축소 정도나 운영체제의 디스플레이 설정에 영향을 받을 수 있습니다. 이 설정을 비활성화하면 성능은 향상되지만 고밀도 화소 디스플레이의 시각적 품질은 떨어질 수 있습니다.",
     "SETTINGS.LangN": "언어 설정",
@@ -1325,10 +1301,6 @@
     "SETUP.PackageDependenciesCouldInstall": "{number} 개의 종속 모듈을 자동 설치할 수 있습니다.",
     "SETUP.PackageDependenciesDecline": "{title}에 필요한 종속 모듈을 설치하지 않기로 결정했습니다. 수동으로 설치해야 합니다.",
     "SETUP.PackageDependenciesSuccess": "{title} 모듈과 {number} 개의 종속 모듈을 성공적으로 설치했습니다.",
-    
-    
-    "SETUP.PackageUpdateBlocked": "{name} 모듈의 업데이트가 가능하지만 현재 코어 소프트웨어 버전이 {vcur}이라 설치할 수 없습니다. {vreq} 버전이 필요합니다.",
-
 
     "SETUP.PackageUpdateCoreUpdateNeeded": "{id} 모듈의 업데이트가 가능하지만 현재 코어 소프트웨어 버전이 {vcur}이라 설치할 수 없습니다. 최소 {vmin} 버전으로 업데이트해야 합니다.",
     "SETUP.PackageUpdateCoreUnstable": "{id} 모듈의 업데이트가 가능하지만, 모듈의 요구 코어 버전이 불안정 버전인 {vmin} 버전입니다.",
@@ -1376,28 +1348,16 @@
     "SETUP.WorldMigrationInProcess": "월드 데이터가 {version} 버전에 호환되도록 마이그레이션 중입니다. 시간이 다소 걸릴 수 있습니다. 차분히 기다려주십시오. 파운드리를 닫지 말아주십시오.",
 
     "SETUP.AdminAccess": "파운드리 버추얼 테이블탑 &bull; 관리자 접근",
-
-
-    "SETUP.AdminKeyLabel": "관리자 비밀번호",
-    "SETUP.AdminKeyPrompt": "어플리케이션 셋업에 접근 하려면 관리자 비밀번호를 입력해야 합니다.",
-    "SETUP.AdminKeyHint": "이 셋업 화면에 접근하기 위해 입력해야 하는 별도의 비밀번호를 할당할 수 있습니다.",
-
-
     "SETUP.AdminPasswordLabel": "관리자 비밀번호",
     "SETUP.AdminPasswordHint": "어플리케이션 셋업에 접근 하려면 관리자 비밀번호를 입력해야 합니다.",
     "SETUP.AdminPasswordPrompt": "셋업 화면에 접근하려면 반드시 관리자 비밀번호가 필요합니다.",
     "SETUP.AdminPasswordForgot": "비밀번호를 잊었을 경우,  <a href='https://foundryvtt.com/article/reset-admin-password/' target='_blank'>이곳</a>에 서술된 방법에 따라 비밀번호를 초기화할 수 있습니다.",
-
-
     "SETUP.AdminLogout": "관리자 로그아웃",
+
     "SETUP.AWSLabel": "AWS 설정 경로",
     "SETUP.AWSHint": "S3 버킷 연동을 위해 AWS 설정 파일을 입력할 수 있습니다. 경로는 절대 경로 또는 유저 데이터의 하위 디렉토리인 Config 폴더에 대한 상대 경로로 입력합니다.",
     "SETUP.CompressStaticLabel": "정적 파일 압축",
     "SETUP.CompressStaticHint": "클라이언트에게 전송되는 데이터 양을 줄이기 위해, 전송 전 FVTT 웹 서버에서 제공하는 파일을 압축합니다.",
-
-    
-    "SETUP.DefaultLanguage": "기본 언어",
-
 
     "SETUP.DefaultLanguageLabel": "기본 언어",
     "SETUP.DefaultLanguageHint": "해당 언어의 코어 번역 파일을 가진 모듈을 골라 어플리케이션의 기본 언어를 지정할 수 있습니다.",
@@ -1411,10 +1371,6 @@
     "SETUP.SSLCertLabel": "SSL 인증서",
     "SETUP.SSLCertHint": "보안 소켓 레이어(SSL) 암호화를 이용해 서버를 돌릴 수 있습니다. 인증서와 키 파일 경로를 입력하십시오. 경로는 절대 경로 혹은 유저 데이터의 하위 폴더에 있는 Config 폴더에 대한 상대 경로를 입력합니다.",
     "SETUP.SSLKeyLabel": "SSL 비공개 키",
-
-
-    "SETUP.SSLHint": "인증서 및 키 파일 경로를 입력해 서버에 보안 소켓 레이어(SSL) 암호화를 적용할 수 있습니다. 경로는 절대 경로 또는 유저 데이터의 하위 디렉토리인 Config 폴더에 대한 상대 경로로 입력합니다.",
-
 
     "PACKAGE.TagJavaScript": "자바스크립트",
     "PACKAGE.TagCSS": "CSS",
@@ -1501,17 +1457,6 @@
     "FOLDER.CreateTable": "굴림표 생성",
     "FOLDER.CreateTableConfirm": "이 폴더의 내용을 표 결과로 사용하여 새 굴림표 문서를 생성하시겠습니까?",
 
-
-
-    "PERMISSION.NONE": "없음",
-    "PERMISSION.LIMITED": "제한됨",
-    "PERMISSION.OBSERVER": "관찰자",
-    "PERMISSION.OWNER": "소유자",
-    "PERMISSION.DEFAULT": "기본값",
-    "PERMISSION.NOCHANGE": "변화 없음",
-    "PERMISSION.AllPlayers": "모든 플레이어",
-
-
     "FOLDER.DocumentSort": "정렬 순서",
     "FOLDER.DocumentSortHint": "이 문서의 정렬 순서를 설정합니다. 낮은 숫자가 맨 위로 정렬됩니다.",
     
@@ -1533,11 +1478,6 @@
     "PERMISSION.ConfigureLabel": "권한 설정 열기",
     "PERMISSION.ConfigureHint": "각 역할의 유저에게 허용할 기능을 세부 조정합니다.",
     "PERMISSION.Instructions": "유저 역할에 따라 실행할 수 있는 기능을 설정합니다. 게임 마스터 유저의 일부 기능은 비허용할 수 없습니다. 일부 변경 내용은 게임을 새로고침하기 전까지 적용되지 않을 수 있습니다.",
-
-
-    "PERMISSION.HintFolder": "이 폴더의 모든 문서에 대한 접근 권한 설정입니다. 하위 폴더의 내용을 제외한 모든 문서에 변경 사항이 적용됩니다.",
-    "PERMISSION.HintDocument": "이 문서의 접근 권한을 조정합니다. 각 유저마다 다른 권한을 할당할 수 있습니다.",
-
 
     "PERMISSION.Permission": "권한",
     "PERMISSION.Permissions": "유저 역할 권한",
@@ -1584,17 +1524,6 @@
     "PERMISSION.WarningNoCreate": "{document} 을/를 생성할 권한이 없습니다.",
     "SIDEBAR.Import": "데이터 불러오기",
     "SIDEBAR.NavLabel": "사이드바 탭",
-
-
-    "SIDEBAR.TabChat": "대화 기록",
-    "SIDEBAR.TabCombat": "전투 트래커",
-    "SIDEBAR.TabScenes": "장면 디렉토리",
-    "SIDEBAR.TabActors": "액터 디렉토리",
-    "SIDEBAR.TabItems": "아이템 디렉토리",
-    "SIDEBAR.TabJournal": "저널 엔트리",
-    "SIDEBAR.TabCards": "카드 스택",
-    "SIDEBAR.TabPlaylists": "오디오 재생목록",
-
 
     "SIDEBAR.TabCompendium": "컴펜디움 팩",
     "SIDEBAR.TabSettings": "게임 설정",
@@ -1726,13 +1655,6 @@
     "TOKEN.TitlePrototype": "프로토타입 토큰",
     "TOKEN.TintColor": "색상",
     "TOKEN.Update": "토큰 저장",
-
-
-    "TOKEN.VisionHas": "시야 있음",
-    "TOKEN.VisionRadius": "시야 범위",
-    "TOKEN.VisionBright": "밝은 빛",
-    "TOKEN.VisionDim": "연한 빛",
-    
     
     "TOKEN.VisionEnabled": "시야 활성화",
     "TOKEN.VisionEnabledHint": "시야 내에서 조명이 비추는 곳을 볼 수 있게 합니다.",
@@ -1919,10 +1841,6 @@
     "WEBRTC.NameplatesCharacter": "캐릭터 이름만",
     "WEBRTC.NameplatesBoth": "표시 전환",
 
-
-    "WEBRTC.TooltipChangeSize": "영상 크기 변경(순환)",
-
-
     "WEBRTC.CaptureWarningVideo": "오디오 장치 입력을 감지할 수 없습니다. 영상만 공유합니다.",
     "WEBRTC.CaptureWarningAudio": "비디오 장치 입력을 감지할 수 없습니다. 음성만 공유합니다.",
     "WEBRTC.CaptureErrorAudioVideo": "오디오 및 비디오 장치 입력을 감지할 수 없습니다.",
@@ -1948,6 +1866,44 @@
     "WORLD.ResetKeys": "유저 비밀번호 초기화",
     "WORLD.LaunchSafeMode": "안전 모드로 시작",
     "WORLD.SafeModeHint": "모든 모듈 및 활성화된 장면을 비활성화하고 오디오 재생을 중지합니다.",
-    "WORLD.Description": "월드 설명"
+    "WORLD.Description": "월드 설명",
+
+
+    "CONTROLS.MeasureBorder": "측정 외곽선 색상",
+    "CONTROLS.MeasureTemplate": "템플릿 텍스처",
+    "DRAWING.ConfigTitle": "그리기 도구 설정",
+    "DRAWING.PosX": "X축 위치",
+    "DRAWING.PosY": "Y축 위치",
+    "PERMISSION.HintFolder": "이 폴더의 모든 문서에 대한 접근 권한 설정입니다. 하위 폴더의 내용을 제외한 모든 문서에 변경 사항이 적용됩니다.",
+    "PERMISSION.HintDocument": "이 문서의 접근 권한을 조정합니다. 각 유저마다 다른 권한을 할당할 수 있습니다.",
+    "PERMISSION.NONE": "없음",
+    "PERMISSION.LIMITED": "제한됨",
+    "PERMISSION.OBSERVER": "관찰자",
+    "PERMISSION.OWNER": "소유자",
+    "PERMISSION.DEFAULT": "기본값",
+    "PERMISSION.NOCHANGE": "변화 없음",
+    "PERMISSION.AllPlayers": "모든 플레이어",
+    "SETUP.PackageUpdateBlocked": "{name} 모듈의 업데이트가 가능하지만 현재 코어 소프트웨어 버전이 {vcur}이라 설치할 수 없습니다. {vreq} 버전이 필요합니다.",
+    "SETUP.SSLHint": "인증서 및 키 파일 경로를 입력해 서버에 보안 소켓 레이어(SSL) 암호화를 적용할 수 있습니다. 경로는 절대 경로 또는 유저 데이터의 하위 디렉토리인 Config 폴더에 대한 상대 경로로 입력합니다.",
+    "SIDEBAR.TabChat": "대화 기록",
+    "SIDEBAR.TabCombat": "전투 트래커",
+    "SIDEBAR.TabScenes": "장면 디렉토리",
+    "SIDEBAR.TabActors": "액터 디렉토리",
+    "SIDEBAR.TabItems": "아이템 디렉토리",
+    "SIDEBAR.TabJournal": "저널 엔트리",
+    "SIDEBAR.TabCards": "카드 스택",
+    "SIDEBAR.TabPlaylists": "오디오 재생목록",
+    "SETUP.DefaultLanguage": "기본 언어",
+    "SETUP.AdminKeyLabel": "관리자 비밀번호",
+    "SETUP.AdminKeyPrompt": "어플리케이션 셋업에 접근 하려면 관리자 비밀번호를 입력해야 합니다.",
+    "SETUP.AdminKeyHint": "이 셋업 화면에 접근하기 위해 입력해야 하는 별도의 비밀번호를 할당할 수 있습니다.",
+    "SETTINGS.ResScaleN": "픽셀 해상도 비율 조정",
+    "SETTINGS.ResScaleL": "브라우저의 픽셀 비율에 맞추어 게임 캔버스의 해상도를 조정합니다. 이 설정을 활성화하면 레티나 디스플레이와 같은 고밀도 화소의 디스플레이에서는  해상도가 좋아지지만, 어플리케이션의 성능은 저하될 수 있습니다. 또한, 해상도는 브라우저의 확대/축소 정도나 운영체제의 디스플레이 설정에 영향을 받을 수 있습니다. 이 설정을 비활성화하면 성능은 향상되지만 고밀도 화소 디스플레이의 시각적 품질은 떨어질 수 있습니다.",
+    "TOKEN.VisionHas": "시야 있음",
+    "TOKEN.VisionRadius": "시야 범위",
+    "TOKEN.VisionBright": "밝은 빛",
+    "TOKEN.VisionDim": "연한 빛",
+    "WEBRTC.TooltipChangeSize": "영상 크기 변경(순환)"
+
   }
   

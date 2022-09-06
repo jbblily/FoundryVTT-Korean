@@ -1,4 +1,6 @@
 # Change Log
+v 0.4.3 - 10.284 bug fix
+
 v 0.4.2 - missing keys added
 
 v 0.4.1 - manifest adjested
