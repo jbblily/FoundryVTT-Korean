@@ -36,3 +36,5 @@
 ### 구 버전 다운로드 링크
 
 코어 v 0.8.9 : https://github.com/jbblily/FoundryVTT-Korean/archive/refs/tags/v0.2.3.zip
+
+코어 v 9.280: https://github.com/jbblily/FoundryVTT-Korean/archive/refs/tags/v0.3.4a.zip
