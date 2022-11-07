@@ -7,7 +7,7 @@
 
 ## 설치
 
-매니페스트 링크 : https://raw.githubusercontent.com/jbblily/FoundryVTT-Korean/main/module.json
+매니페스트 링크 : https://github.com/jbblily/FoundryVTT-Korean/releases/latest/download/module.json
 
 상단의 링크를 부가모듈 > 모듈 설치 > 아래와 같은 가로창에 붙여 넣은 후 설치 버튼을 눌러 다운로드하세요. 
 
