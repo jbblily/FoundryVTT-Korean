@@ -15,6 +15,7 @@
     "Character": "캐릭터",
     "Configure": "설정",
     "Command": "커맨드",
+    "Collapse": "접기",
     "Close": "닫기",
     "Degrees": "°",
     "Default": "기본값",
@@ -26,7 +27,9 @@
     "Documentation": "문서",
     "Duplicate": "복제",
     "Error": "오류",
+    "Expand": "펼치기",
     "GridUnits": "격자 칸",
+    "GridSpaces": "격자 크기",
     "Install": "설치",
     "Elevation": "고도",
     "Foundry Virtual Tabletop": "파운드리 버추얼 테이블탑",
@@ -188,6 +191,8 @@
     "CARD.Unknown": "알 수 없음 ({source})",
     "CARD.Play": "카드 사용",
     "CARD.PlayHint": "카드를 사용하려면 카드를 다른 패나 더미로 넘겨주세요.",
+
+    "CHAT.Chat": "채팅",
     "CHAT.Clear": "대화 기록 삭제",
     "CHAT.Export": "대화 기록 내보내기",
     "CHAT.FlushTitle": "대화 기록 일괄 삭제",
@@ -430,6 +435,7 @@
     "DOCUMENT.ImportDataHint1": "추출한 JSON 파일에서 이 {document} 의 데이터를 가져올 수 있습니다.",
     "DOCUMENT.ImportDataHint2": "이 작업은 {name} 의 데이터를 업데이트하며, 이 작업을 취소할 수 없습니다.",
     "DOCUMENT.ImportSource": "원본 데이터",
+    "DOCUMENT.Imported": "{document} \"{name}\" 의 데이터를 JSON으로부터 성공적으로 불러왔습니다.",
     "DOCUMENT.SheetPermissionWarn": "이 {document} 시트를 볼 수 있는 권한이 없습니다.",
     "DOCUMENT.UsePermissionWarn": "이 {document} 을/를 사용할 수 있는 권한이 없습니다.",
     "DOCUMENT.IdCopiedClipboard": "{label} {type} \"{id}\" 가 클립보드에 복사되었습니다.",
@@ -587,6 +593,7 @@
     "EFFECT.StatusHolyShield": "성스러운 방패",
 
     "ERROR.BrowserVersion": "FVTT는 모던 자바스크립트 기능을 사용합니다. {browser} 브라우저의 {minimum} 버전 이하에서는 지원되지 않는 기능입니다. 현재 {browser} 브라우저의 {version} 버전을 사용 중입니다. 브라우저를 업데이트하거나 다른 브라우저를 사용해주십시오.",
+    "ERROR.ElectronVersion": "사용 중인 파운드리 버추얼 테이블탑 일렉트론 클라이언트가 구버전입니다. 최상의 성능을 발휘하기 위해 파운드리를 재다운로드해 완전히 재설치할 것을 권장합니다.",
     "ERROR.LowResolution": "파운드리 버추얼 테이블탑의 최소 해상도는 가로 {reqWidth}px, 세로 {reqHeight}px입니다. 현재 해상도는 가로 {width}px, 세로 {height}px입니다. 현재 디스플레이 설정에서는 본 소프트웨어의 여러 기능이 제대로 작동하지 않을 수 있습니다.",
     "ERROR.NoWebGL": "현재 브라우저는 파운드리 버추얼 테이블탑이 요구하는 WebGL 렌더링을 지원하지 않습니다. 브라우저에서 하드웨어 렌더링 및 WebGL을 켜 주십시오.",
     "ERROR.NoWebGL2": "현재 사용 중인 브라우저는 FVTT에 권장되는 WebGL 2.0 렌더링을 지원하지 않습니다.",
@@ -655,7 +662,7 @@
     "EDITOR.LinkInsert": "링크 삽입",
     "EDITOR.ProseMirrorBadArguments": "ProseMirror 인스턴스를 생성하려면 문서와 이름 둘 다 필요합니다. ",
     "EDITOR.TinyMCE": "TinyMCE",
-    "EDITOR.Markdown": "마트다운",
+    "EDITOR.Markdown": "마크다운",
     "EDITOR.Reveal": "보이기",
     "EDITOR.Hide": "숨기기",
     "EDITOR.CollaboratingUsers": "유저 협업",
@@ -708,6 +715,9 @@
     
     "GAME.Paused": "게임이 일시정지 되었습니다.",
     "GAME.PausedWarning": "게임이 일시정지 중일 때에는 이 동작을 수행할 수 없습니다.",
+
+    "INFO.SceneViewCanvasDisabled": "\"{name}\" 장면을 현재 보고 있으나, 게임 캔버스가 비활성화되어 표시되지 않습니다.",
+
     "INVITATIONS.Copied": "게임 초대 링크가 클립보드에 복사됐습니다.",
     "INVITATIONS.Instructions": "게임에 참가하려는 유저에게 아래 초대 링크를 공유해주십시오. 같은 로컬 네트워크에 있는 유저는 로컬 초대 링크를, 설정된 포트에 인터넷으로 접속하는 유저는 인터넷 링크를 사용합니다.",
     "INVITATIONS.Internet": "인터넷",
@@ -822,6 +832,7 @@
     "KEYBINDINGS.ZoomIn": "캔버스 줌 인",
     "KEYBINDINGS.ZoomOut": "캔버스 줌 아웃",
     "KEYBINDINGS.ExecuteMacro": "매크로 단축바 실행",
+    "KEYBINDINGS.SwapMacroPage": "단축바 {page} 페이지로 이동",
     "KEYBINDINGS.MustBeArray": "행렬값을 입력해야 합니다",
     "KEYBINDINGS.ErrorProtectedKey": "\"{key}\" 는 보호된 키로, 단축키로 설정할 수 없습니다",
     "KEYBINDINGS.ErrorIllegalModifier": "요청하신 \"{key}\" 조합키는 KeyboardManager.MODIFIER_KEYS 에 유효한 값이 아닙니다. ",
@@ -1557,6 +1568,8 @@
 
     "TABLE.AnimateSetting": "애니메이션 켜기",
     "TABLE.AnimateSettingHint": "굴림표에서 결과를 뽑을 때 룰렛 스타일의 애니메이션을 보여줍니다.",
+    "TABLE.DrawFlavor": "표 {name}에서 결과를 뽑습니다.",
+    "TABLE.DrawFlavorPlural": "표 {name} 에서 {number} 번 결과를 뽑습니다.",
     "TABLE.Description": "굴림표 설명",
     "TABLE.DisplayRoll": "대화에 굴림 보여주기",
     "TABLE.Formula": "굴림 공식",
@@ -1904,6 +1917,5 @@
     "TOKEN.VisionBright": "밝은 빛",
     "TOKEN.VisionDim": "연한 빛",
     "WEBRTC.TooltipChangeSize": "영상 크기 변경(순환)"
-
   }
   
