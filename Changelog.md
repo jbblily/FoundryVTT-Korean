@@ -1,4 +1,6 @@
 # Change Log
+v 0.5.0 - Core v11.306 update
+
 v 0.4.4 - 누락된 키 추가 
 
 v 0.4.3 - 10.284 bug fix
