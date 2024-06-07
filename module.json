@@ -1,12 +1,12 @@
 {
 	"id": "lang-ko",
 	"compatibility": {
-		"minimum": 10,
-		"verified": "11.306"
+		"minimum": 11,
+		"verified": "12.325"
 	},
 	"title": "Translation : Korean [Core]",
 	"description": "Foundry VTT의 코어 소프트웨어 한국어 번역 모듈입니다.<br>The module for Korean localization of Core FVTT.",
-	"version": "0.5.0",
+	"version": "자동 대체",
 	"authors": [
 		{
 		"name": "jbblily(Crownel)"
@@ -26,5 +26,5 @@
 
 	"url" : "https://github.com/jbblily/FoundryVTT-Korean",
 	"manifest" : "https://raw.githubusercontent.com/jbblily/FoundryVTT-Korean/main/module.json",
-    "download" : "https://github.com/jbblily/FoundryVTT-Korean/archive/refs/tags/v0.4.2.zip"
+    "download" : "이곳은 자동으로 대체된다"
 }
