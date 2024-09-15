@@ -126,10 +126,10 @@
 "ADVENTURE.CreateSuccess": "\"{name}\" 어드벤처가 성공적으로 생성되었습니다!",
 "ADVENTURE.UpdateSuccess": "\"{name}\" 어드벤처가 성공적으로 업데이트되었습니다!",
 
-"ADVENTURE.DocumentUpdate": "이 도큐먼트는 어드벤처가 빌드될 때 갱신됩니다.",
-"ADVENTURE.DocumentAdd": "이 도큐먼트는 어드벤처가 빌드될 때 추가됩니다.",
-"ADVENTURE.DocumentMissing": "이 도큐먼트는 이 월드에 존재하지 않으므로 어드벤처가 빌드될 때 갱신되지 않습니다.",
-"ADVENTURE.DocumentRemove": "이 도큐먼트는 어드벤처가 빌드될 때 제거됩니다.",
+"ADVENTURE.DocumentUpdate": "이 도큐먼트는 어드벤처가 구축될 때 갱신됩니다.",
+"ADVENTURE.DocumentAdd": "이 도큐먼트는 어드벤처가 구축될 때 추가됩니다.",
+"ADVENTURE.DocumentMissing": "이 도큐먼트는 이 월드에 존재하지 않으므로 어드벤처가 구축될 때 갱신되지 않습니다.",
+"ADVENTURE.DocumentRemove": "이 도큐먼트는 어드벤처가 구축될 때 제거됩니다.",
 
 "APP.NavigateBackConfirm": "정말로 파운드리 버추얼 테이블탑 게임을 종료하시겠습니까?",
 
