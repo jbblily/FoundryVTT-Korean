@@ -692,7 +692,7 @@
   "DrawingClear": "모든 그림 삭제",
   "DrawingConfig": "그리기 설정",
   "DrawingRole": "정보 그리기 활성화",
-  "GroupWall": "벽 조작법",
+  "GroupWall": "벽 조작",
   "WallDraw": "벽 그리기",
   "WallBasic": "기본 벽",
   "WallBasicBlocks": "이동, 시야, 음향",
