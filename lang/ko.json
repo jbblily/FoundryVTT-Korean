@@ -2150,7 +2150,7 @@
 "SETTINGS.PerformanceModeHigh": "높음",
 "SETTINGS.PerformanceModeMax": "최대",
 "SETTINGS.ScrollStatusN": "스크롤 상태 텍스트",
-"SETTINGS.ScrollStatusL": "토큰이나 다른 캔버스 오브젝트 위에 스크롤 상태 메시지가 나타납니다. 메시지로 오브젝트 변동사항에 피드백이 제공됩니다.",
+"SETTINGS.ScrollStatusL": "토큰이나 다른 캔버스 오브젝트 위에 스크롤 상태 메시지가 나타납니다. 오브젝트 상태에 변화가 생길 경우 텍스트를 위에 띄워 알립니다.",
 "SETTINGS.SoftSN": "소프트 섀도우 사용",
 "SETTINGS.SoftSL": "소프트 섀도우를 활성화하면 동적 조명 효과를 더 아름답게 보이게 할 수 있으며, 해제하면 저사양 기기의 성능을 향상시킬 수 있습니다.",
 "SETTINGS.TabCore": "코어 설정",
