@@ -660,14 +660,14 @@
   "Title": "게임 조작법 안내",
   "NavLabel": "캔버스 조작 팔레트",
   "Instructions": "파운드리 버추얼 테이블탑의 여러 기능을 사용하기 위한 키보드와 마우스 단축키가 설명되어 있습니다. 연보라색으로 강조된 항목은 게임 마스터 유저만 사용할 수 있는 단축키입니다.",
-  "GroupToken": "토큰 조작법",
+  "GroupToken": "토큰 조작",
   "CommonForceSnap": "격자 꼭짓점에 강제로 맞추기",
   "BasicSelect": "토큰 선택",
   "BasicSelectP": "토큰 시야로 보려면 소유권을 가진 토큰 중 아무거나 하나를 선택하세요. 토큰을 선택하지 않을 시, 소유권이 있는 모든 토큰의 시야로 보입니다.",
   "TargetSelect": "타겟 선택",
   "TargetSelectP": "원하는 토큰을 타겟으로 지정하세요.",
   "BasicMeasure": "거리 측정",
-  "GroupMeasure": "측정 조작법",
+  "GroupMeasure": "측정 조작",
   "MeasureType": "측정 템플릿 종류",
   "MeasureConfigHint": "측정 템플릿의 배치 방식과 모양을 설정합니다.",
   "MeasureCircle": "원형 템플릿",
@@ -675,7 +675,7 @@
   "MeasureRect": "직사각형 템플릿",
   "MeasureRay": "직선형 템플릿",
   "MeasureClear": "모든 템플릿 삭제",
-  "GroupTile": "타일 조작법",
+  "GroupTile": "타일 조작",
   "TileSelect": "타일 선택",
   "TilePlace": "타일 배치",
   "TilePlaceHeading": "배치",
@@ -692,7 +692,7 @@
   "DrawingClear": "모든 그림 삭제",
   "DrawingConfig": "그리기 설정",
   "DrawingRole": "정보 그리기 활성화",
-  "GroupWall": "벽 조작법",
+  "GroupWall": "벽 조작",
   "WallDraw": "벽 그리기",
   "WallBasic": "기본 벽",
   "WallBasicBlocks": "이동, 시야, 음향",
@@ -2150,7 +2150,7 @@
 "SETTINGS.PerformanceModeHigh": "높음",
 "SETTINGS.PerformanceModeMax": "최대",
 "SETTINGS.ScrollStatusN": "스크롤 상태 텍스트",
-"SETTINGS.ScrollStatusL": "토큰이나 다른 캔버스 오브젝트 위에 스크롤 상태 메시지가 나타납니다. 메시지로 오브젝트 변동사항에 피드백이 제공됩니다.",
+"SETTINGS.ScrollStatusL": "토큰이나 다른 캔버스 오브젝트 위에 스크롤 상태 메시지가 나타납니다. 오브젝트 상태에 변화가 생길 경우 텍스트를 위에 띄워 알립니다.",
 "SETTINGS.SoftSN": "소프트 섀도우 사용",
 "SETTINGS.SoftSL": "소프트 섀도우를 활성화하면 동적 조명 효과를 더 아름답게 보이게 할 수 있으며, 해제하면 저사양 기기의 성능을 향상시킬 수 있습니다.",
 "SETTINGS.TabCore": "코어 설정",
@@ -3121,7 +3121,7 @@
         },
         "visibility": {
           "label": "표시범위",
-          "hint": "스크롤 텍스트에 권한 레벨을 설정해 권한 별로 스크롤 텍스트를 볼 수 있는지 여부를 다르게 할 수 있습니다."
+          "hint": "스크롤 텍스트에 권한 레벨을 설정해 특정 권한만 스크롤 텍스트를 볼 수 있게 합니다."
         }
       },
       "VISIBILITY_MODES": {
