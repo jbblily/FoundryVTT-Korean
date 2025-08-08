@@ -119,7 +119,7 @@
   "ExportDropZone": "어드벤처에 내용을 배치하려면 현재 월드에 있는 내용을 드래그&드롭하십시오.",
   "ExportPackNoSystem": "해당 액터 혹은 아이템을 옮겨넣을 어드벤처의 시스템을 인식할 수 없습니다. 어드벤처 컴펜디엄의 시스템과 해당 액터 혹은 아이템의 시스템과 일치해야 합니다.",
   "ExportPrimaryDocumentsOnly": "월드 안에 존재하는 문서만 추가할 수 있습니다.",
-  "CreateSuccess": "\"{name}\" 어드벤처가 성공적으로 생성되었습니다!",
+  "CreateSuccess": "\"{name}\" 어드벤처가 성공적으로 만들기되었습니다!",
   "UpdateSuccess": "\"{name}\" 어드벤처가 성공적으로 갱신되었습니다!",
 
   "DocumentUpdate": "어드벤처를 구축하면 해당 문서가 갱신됩니다.",
@@ -161,7 +161,7 @@
 
 "AMBIENT_LIGHT": {
   "ACTIONS": {
-    "CREATE": "환경광 생성",
+    "CREATE": "환경광 만들기",
     "UPDATE": "환경광 수정",
     "RESET": "고급 옵션 초기화"
   },
@@ -206,7 +206,7 @@
 
 "AMBIENT_SOUND": {
 "ACTIONS": {
-  "CREATE": "환경음 생성",
+  "CREATE": "환경음 만들기",
   "UPDATE": "환경음 수정"
 },
 "FIELDS": {
@@ -366,7 +366,7 @@
   "DealHint": "카드를 받을 패 또는 더미를 선택하세요. 선택한 모든 패/더미에 같은 수의 카드를 분배합니다.",
   "DealTitle": "카드 분배",
   "DealTo": "분배 대상",
-  "DealWarnNoTargets": "카드를 분배하려면 먼저 카드 패 또는 더미를 생성해야 합니다.",
+  "DealWarnNoTargets": "카드를 분배하려면 먼저 카드 패 또는 더미를 만들기해야 합니다.",
   "DeleteCannot": "삭제 불가",
   "DeleteCannotHint": "카드 덱 속 카드가 이미 어딘가로 분배되어 있으면 삭제할 수 없습니다. 다음 카드 덱을 초기화한 후 다시 시도해주세요 : {decks} ",
   "DeleteMustReset": "이 {type} 을/를 삭제하려면 초기화해야 합니다. 초기화하겠습니까?",
@@ -405,7 +405,7 @@
     "type.label": "카드 스택 타입"
   },
   "ACTIONS": {
-    "Create": "카드 생성",
+    "Create": "카드 만들기",
     "Delete": "카드 삭제",
     "Deal": "분배",
     "Draw": "뽑기",
@@ -490,7 +490,7 @@
 
 "COMBAT.NavLabel": "전투 인카운터 내비게이션",
 "COMBAT.Begin": "전투 개시",
-"COMBAT.Create": "인카운터 생성",
+"COMBAT.Create": "인카운터 만들기",
 "COMBAT.Delete": "인카운터 삭제",
 "COMBAT.Encounter": "인카운터",
 "COMBAT.EncounterPrevious": "이전 인카운터 활성화",
@@ -534,7 +534,7 @@
 "COMBAT.CannotLinkToScene": "해당 전투를 장면에 링크하려면 장면에 전투원이 모두 있어야 합니다.",
 
 "COMBAT.CombatantActor": "연결된 액터",
-"COMBAT.CombatantCreate": "전투원 생성",
+"COMBAT.CombatantCreate": "전투원 만들기",
 "COMBAT.CombatantDefeated": "쓰러짐",
 "COMBAT.CombatantHidden": "숨겨짐",
 "COMBAT.CombatantImage": "섬네일 이미지",
@@ -601,8 +601,8 @@
 },
 
 "COMPENDIUM.Name": "컴펜디엄 명칭",
-"COMPENDIUM.Create": "컴펜디엄 생성",
-"COMPENDIUM.CreateHint": "현재 월드에 새 컴펜디엄 팩을 생성합니다.",
+"COMPENDIUM.Create": "컴펜디엄 만들기",
+"COMPENDIUM.CreateHint": "현재 월드에 새 컴펜디엄 팩을 만들기합니다.",
 "COMPENDIUM.FilterDocuments": "도큐먼트 타입으로 필터링",
 "COMPENDIUM.ClearFilters": "필터 초기화",
 "COMPENDIUM.Delete": {
@@ -741,14 +741,14 @@
   "NoteSelect": "노트 선택",
   "NoteToggle": "노트 공개/비공개 전환",
   "NoteClear": "모든 노트 삭제",
-  "RegionShape": "선택한 구역에 모양을 추가합니다. 선택된 구역이 없다면, 새로운 구역이 생성됩니다. 같은 구역에 여러 모양을 겹치면 서로 합쳐집니다. 같은 구역에 있는 모양은 모두 같은 색으로 칠해집니다.",
+  "RegionShape": "선택한 구역에 모양을 추가합니다. 선택된 구역이 없다면, 새로운 구역이 만들기됩니다. 같은 구역에 여러 모양을 겹치면 서로 합쳐집니다. 같은 구역에 있는 모양은 모두 같은 색으로 칠해집니다.",
   "GroupRegion": "구역",
   "RegionSelect": "구역 선택",
   "RegionSelectP": "장면에서 1개 이상의 구역을 선택합니다. 선택된 구역은 색으로 표시되며, 선택되지 않은 구역은 줄무늬로 표시됩니다.",
   "RegionRectangle": "직사각형 그리기",
   "RegionEllipse": "타원 그리기",
   "RegionPolygon": "다각형 그리기",
-  "RegionHole": "구멍 생성",
+  "RegionHole": "구멍 만들기",
   "RegionHoleP": "이 버튼을 활성화하면, 구역에 모양 도구 중 아무거나 사용해서 모양을 내면 그것이 '구멍' 이 됩니다. '구멍' 에는 구역 행동이 적용되지 않습니다.",
   "RegionSnap": "이 옵션을 활성화하면, 모양을 그릴 때 격자에 자동으로 맞춰집니다.",
   "RegionClear": "구역 모두 지우기",
@@ -851,7 +851,7 @@
   "DrawingHeader": "그리기 도구 조작법",
   "DrawingTextConfirm": "텍스트 그리기 확정",
   "DrawingTextCancel": "텍스트 그리기 취소",
-  "CommonCreate": "생성",
+  "CommonCreate": "만들기",
   "CommonMove": "이동",
   "CommonEdit": "편집",
   "CommonHide": "숨기기",
@@ -905,7 +905,7 @@
 },
 
 "DOCUMENT": {
-  "Create": "{type} 생성",
+  "Create": "{type} 만들기",
   "Delete": "{type} 삭제",
   "New": "새 {type}",
   "NewCount": "새 {type} ({count})",
@@ -1013,7 +1013,7 @@
 
 "DRAWING.ConfigDefaultTitle": "기본값 설정",
 "DRAWING.SubmitDefault": "기본값 설정",
-"DRAWING.SubmitCreate": "그림 생성",
+"DRAWING.SubmitCreate": "그림 만들기",
 "DRAWING.SubmitUpdate": "그림 업데이트",
 "DRAWING.SubmitReset": "기본값 초기화",
 "DRAWING.NotePosition": "그림의 위치 및 공개 범위를 조정합니다.",
@@ -1062,7 +1062,7 @@
 "EFFECT.MODE_UPGRADE": "업그레이드",
 "EFFECT.MODE_OVERRIDE": "덮어쓰기",
 "EFFECT.TransferLegacy": "액터에 이펙트를 옮기기",
-"EFFECT.TransferHintLegacy": "활성화 시, 이 이펙트의 부모 아이템이 액터에 생성될 때 이 이펙트도 같이 복사됩니다. 부모 아이템이 삭제되면 이펙트도 같이 삭제됩니다.",
+"EFFECT.TransferHintLegacy": "활성화 시, 이 이펙트의 부모 아이템이 액터에 만들기될 때 이 이펙트도 같이 복사됩니다. 부모 아이템이 삭제되면 이펙트도 같이 삭제됩니다.",
 "EFFECT.DurationTurns": "효과 지속시간 (턴)",
 "EFFECT.StartTurns": "효과 시작 턴",
 "EFFECT.ChangeKey": "어트리뷰트 키",
@@ -1219,7 +1219,7 @@
 "EDITOR.LinkText": "텍스트 연결",
 "EDITOR.LinkTitle": "제목 연결",
 "EDITOR.LinkInsert": "링크 삽입",
-"EDITOR.ProseMirrorBadArguments": "ProseMirror 인스턴스를 생성하려면 문서와 이름 둘 다 필요합니다. ",
+"EDITOR.ProseMirrorBadArguments": "ProseMirror 인스턴스를 만들기하려면 문서와 이름 둘 다 필요합니다. ",
 "EDITOR.TinyMCE": "TinyMCE",
 "EDITOR.Markdown": "마크다운",
 "EDITOR.Reveal": "보이기",
@@ -1255,7 +1255,7 @@
 
 "FILES": {
   "CreateDirectory": "폴더 만들기",
-  "CreateSubfolder": "하위 폴더 생성",
+  "CreateSubfolder": "하위 폴더 만들기",
   "DirectoryName": {
       "Label": "폴더 이름",
       "Placeholder": "my-folder"
@@ -1683,8 +1683,8 @@
 "MODMANAGE.UpstreamPackages": "이 패키지를 활성화하려면 {number} 개의 패키지가 요구됩니다. 이 패키지를 비활성화하면 해당 패키지들도 비활성화됩니다.",
 "MODMANAGE.UnavailableDocuments": "이 모듈을 비활성화하면 다음과 같은 문서를 사용할 수 없게 됩니다.",
 
-"NOTE.Create": "맵 노트 생성",
-"NOTE.CreateJournal": "해당 저널을 생성하겠습니까?",
+"NOTE.Create": "맵 노트 만들기",
+"NOTE.CreateJournal": "해당 저널을 만들기하겠습니까?",
 "NOTE.Custom": "커스텀",
 "NOTE.CustomIcon": "커스텀 아이콘",
 "NOTE.Unknown": "알 수 없음",
@@ -1760,7 +1760,7 @@
 "PLAYLIST.Update": "재생목록 업데이트",
 "PLAYLIST.SortAlphabetical": "알파벳순",
 "PLAYLIST.SortManual": "수동",
-"PLAYLIST.SoundCreate": "음원 생성",
+"PLAYLIST.SoundCreate": "음원 만들기",
 "PLAYLIST.SoundEdit": "음원 편집",
 "PLAYLIST.SoundDelete": "음원 삭제",
 "PLAYLIST.SoundLoop": "반복 재생",
@@ -2257,7 +2257,7 @@
   "CoreVersion": "코어 소프트웨어 버전",
   "CoreVersionHint": "파운드리 버추얼 테이블탑 코어 소프트웨어에 새 업데이트가 있으면 여기서 적용할 수 있습니다. 현재 버전은 {coreVersion} 입니다.",
   "SettingsHeader": "소프트웨어 설정",
-  "YouMustInstallASystem": "게임 시스템을 설치해야 새 월드를 생성할 수 있습니다.",
+  "YouMustInstallASystem": "게임 시스템을 설치해야 새 월드를 만들기할 수 있습니다.",
   "UpdateAvailable": "{channel} 채널의 {version} 버전으로 업데이트 할 수 있습니다!",
   "Configuration": "설정",
   "MinifyFiles": "정적 파일 최적화",
@@ -2299,7 +2299,7 @@
   "Uninstall": "제거",
   "Reinstall": "재설치",
   "ReinstallPackageNotFound": "패키지 재설치가 실패했습니다. 해당 ID의 패키지를 패키지 레포지토리에서 찾을 수 없었습니다. 매니페스트 링크를 통해 수동으로 재설치해야 합니다.",
-  "WorldCreate": "월드 생성",
+  "WorldCreate": "월드 만들기",
   "WorldDelete": "월드 삭제",
   "WorldEdit": "월드 편집",
   "WorldLaunch": "월드 실행",
@@ -2459,7 +2459,7 @@
   "WorldMigrationSystemUnavailable": "<p>설치된 <strong>{system}</strong> (<code>{systemVersion}</code>) 게임 시스템의 버전이 코어 버전과 호환되지 않습니다. 마이그레이션이 불완전하게 이루어질 수 있습니다.</p>",
   "WorldMigrationDisableModules": "<p>월드를 마이그레이션하기 전, 게임 시스템과 설치된 모듈을 업데이트하였는지 확인하세요. 상위 세대로 마이그레이션하면 모든 모듈과 활성화된 장면이 비활성화되며, 재생 중인 모든 음원은 정지됩니다. 마이그레이션 종료 후 이러한 모듈을 다시 활성화할 수 있습니다.</p>",
   "WorldMigrationBackupPrompt": "<p><strong>이 과정은 되돌릴 수 없습니다.</strong>진행하기 전에 월드 데이터를 백업하는 것이 좋습니다. 이전 버전으로 되돌리려면 백업이 필요합니다.</p>",
-  "WorldMigrationCreateBackup": "마이그레이션 전에 백업을 생성합니까?",
+  "WorldMigrationCreateBackup": "마이그레이션 전에 백업을 만들기합니까?",
   "WorldMigrationBegin": "마이그레이션 시작",
   "WorldMigrationInProcess": "월드 데이터가 {version} 버전에 호환되도록 마이그레이션 중입니다. 시간이 다소 걸릴 수 있습니다. 차분히 기다려주십시오. 파운드리를 닫지 말아주십시오.",
 
@@ -2485,11 +2485,11 @@
     "Copying": "백업 복사 중",
     "CopyingPl": "백업 복사 중",
     "CreateBackup": "{title} 백업 생성 중",
-    "CreateBackupComplete": "{title} 백업 생성함",
-    "CreateBackupFailure": "'{title}' 패키지의 백업 생성에 실패했습니다. 세부사항을 보려면 콘솔(F12)을 확인하세요.",
-    "CreateSnapshot": "스냅샷 생성",
-    "CreateSnapshotComplete": "스냅샷이 생성되었습니다.",
-    "CreateSnapshotFailure": "스냅샷 생성에 실패했습니다. 세부사항을 보려면 콘솔(F12)을 확인하세요.",
+    "CreateBackupComplete": "{title} 백업 만들기함",
+    "CreateBackupFailure": "'{title}' 패키지의 백업 만들기에 실패했습니다. 세부사항을 보려면 콘솔(F12)을 확인하세요.",
+    "CreateSnapshot": "스냅샷 만들기",
+    "CreateSnapshotComplete": "스냅샷이 만들기되었습니다.",
+    "CreateSnapshotFailure": "스냅샷 만들기에 실패했습니다. 세부사항을 보려면 콘솔(F12)을 확인하세요.",
     "CreateSnapshotHint": "스냅샷을 생성하면 현재 설치된 모든 패키지를 백업합니다. 추후에 롤백할 때, 스냅샷을 생성한 지점으로 파운드리 VTT 설치 상황을 복구할 수 있습니다.",
     "CreateSnapshotPackageList": "이 스냅샷에는 다음과 같은 패키지가 포함됩니다:",
     "CreateSnapshotConfirm": "패키지 수나 크기, 저장소 용량에 따라 이 과정이 오래 걸릴 수 있습니다. 또한, 이 과정은 중간에 중지시키거나 일시정지할 수 없습니다. 그래도 진행하시겠습니까?",
@@ -2615,7 +2615,7 @@
     "modulePl": "모듈",
     "allPl": "모두"
   },
-  "Create": "패키지 생성",
+  "Create": "패키지 만들기",
   "Compatibility": {
     "Label": "호환성",
     "Hint": "선택사항으로, 이 패키지가 특정 파운드리 버추얼 테이블탑에만 호환되도록 설정할 수 있습니다. 호환 버전은 \"13.339\" 처럼 특정 빌드 버전을 정의하거나, \"13\" 처럼 한 세대 내에 있는 버전 전체를 포함하도록 정의할 수도 있습니다."
@@ -2643,9 +2643,9 @@
   "AlreadyUpdated": "{name} 는 이미 최신 상태입니다.",
   "AllUpdated": "모든 {type} 이/가 최신 상태입니다!",
   "UpdateAllInProgress": "\"모두 업데이트\" 작업이 이미 실행중입니다. 먼저 해당 작업이 완료된 후에 다른 패키지 타입을 업데이트할 수 있습니다.",
-  "ModuleCreate": "모듈 생성",
+  "ModuleCreate": "모듈 만들기",
   "ModuleCreateHint": "이 폼을 사용해 모듈을 만들어 다른 월드에도 공유해서 사용할 수 있으며, 다른 유저들이 모듈을 사용할 수 있게 할 수도 있습니다. 이 폼을 이용하면 패키지에 관련된 세부 설정들을 조정할 수 있습니다. 모듈을 만든 후에도 JSON 매니페스트 파일을 수정하여 해당 설정을 변경할 수 있습니다.",
-  "ModuleCreateSuccess": "새 모듈 \"{id}\" 을 생성했습니다. 이제 해당 모듈을 사용할 수 있습니다!",
+  "ModuleCreateSuccess": "새 모듈 \"{id}\" 을 만들기했습니다. 이제 해당 모듈을 사용할 수 있습니다!",
   "ModuleCreateErrorAlreadyExists": "\"{id}\" 모듈은 이미 존재합니다! 다른 패키지 ID를 선택하세요.",
   "ConfigTitle": "모듈: {module}",
   "NewModuleTitle": "나의 새로운 모듈",
@@ -2815,10 +2815,10 @@
 "FOLDER.ExportNewFolder": "새로운 폴더",
 "FOLDER.Exporting": "{n} {type} 문서를 {compendium} 컴펜디엄으로 내보내기합니다.",
 "FOLDER.ExportDone": "{type} 을/를 {compendium} 컴펜디엄으로 내보내기 완료.",
-"FOLDER.CreateTable": "굴림표 생성",
+"FOLDER.CreateTable": "굴림표 만들기",
 "FOLDER.CreateTableConfirm": {
-  "Title": "굴림표 생성: {folder}",
-  "Question": "이 폴더의 내용을 표 결과로 사용하여 새 굴림표 문서를 생성하시겠습니까?"
+  "Title": "굴림표 만들기: {folder}",
+  "Question": "이 폴더의 내용을 표 결과로 사용하여 새 굴림표 문서를 만들기하시겠습니까?"
 },
 "FOLDER.InvalidDocumentType": "\"{type}\" 타입은 이 폴더에 유효하지 않습니다.",
 "FOLDER.ExceededMaxDepth": "{depth} 단계보다 더 하위에 폴더를 만들 수 없습니다.",
@@ -2859,41 +2859,41 @@
 "PERMISSION.BroadcastAudioHint": "음성/영상 대화 기능을 사용할 때 이 역할의 플레이어가 마이크를 송출할 수 있도록 허용합니다.",
 "PERMISSION.BroadcastVideo": "카메라 송출 허용",
 "PERMISSION.BroadcastVideoHint": "음성/영상 대화 기능을 사용할 때 이 역할의 플레이어가 카메라를 송출할 수 있도록 허용합니다.",
-"PERMISSION.ActorCreate": "새 액터 생성",
-"PERMISSION.ActorCreateHint": "이 역할의 플레이어가 월드에 새 액터를 생성할 수 있도록 허용합니다.",
-"PERMISSION.CardsCreate": "카드 생성",
-"PERMISSION.CardsCreateHint": "이 역할인 유저는 월드에 새로운 카드 도큐먼트를 생성할 수 있다.",
+"PERMISSION.ActorCreate": "새 액터 만들기",
+"PERMISSION.ActorCreateHint": "이 역할의 플레이어가 월드에 새 액터를 만들기할 수 있도록 허용합니다.",
+"PERMISSION.CardsCreate": "카드 만들기",
+"PERMISSION.CardsCreateHint": "이 역할인 유저는 월드에 새로운 카드 도큐먼트를 만들기할 수 있다.",
 "PERMISSION.DrawingCreate": "그리기 도구 사용",
-"PERMISSION.DrawingCreateHint": "이 역할의 플레이어가 그리기 도구로 그림을 생성할 수 있도록 허용합니다.",
-"PERMISSION.ItemCreate": "새 아이템 생성",
-"PERMISSION.ItemCreateHint": "이 역할의 플레이어가 월드에 새 아이템을 생성할 수 있도록 허용합니다.",
+"PERMISSION.DrawingCreateHint": "이 역할의 플레이어가 그리기 도구로 그림을 만들기할 수 있도록 허용합니다.",
+"PERMISSION.ItemCreate": "새 아이템 만들기",
+"PERMISSION.ItemCreateHint": "이 역할의 플레이어가 월드에 새 아이템을 만들기할 수 있도록 허용합니다.",
 "PERMISSION.FilesBrowse": "파일 탐색기 열람",
 "PERMISSION.FilesBrowseHint": "이 역할의 플레이어가 파일 탐색기에서 사용 가능한 파일을 열람할 수 있도록 허용합니다.",
 "PERMISSION.FilesUpload": "새 파일 업로드",
 "PERMISSION.FilesUploadHint": "이 역할의 플레이어가 파일 탐색기에서 서버에 새 컨텐츠를 업로드할 수 있도록 허용합니다.",
-"PERMISSION.JournalCreate": "저널 생성",
-"PERMISSION.JournalCreateHint": "이 역할인 사용자가 저널 사이드바에서 새 저널을 생성할 수 있도록 허용합니다.",
+"PERMISSION.JournalCreate": "저널 만들기",
+"PERMISSION.JournalCreateHint": "이 역할인 사용자가 저널 사이드바에서 새 저널을 만들기할 수 있도록 허용합니다.",
 "PERMISSION.MacroScript": "스크립트 매크로 사용",
 "PERMISSION.MacroScriptHint": "이 역할의 플레이어가 API에 접근하는 자바스크립트 매크로를 사용할 수 있도록 허용합니다.",
 "PERMISSION.ManualRolls": "수동 굴림",
 "PERMISSION.ManualRollsHint": "이 역할인 사용자는 수동 입력 굴림 옵션을 사용할 수 있습니다.",
 "PERMISSION.MessageWhisper": "비공개 귓속말 보내기",
 "PERMISSION.MessageWhisperHint": "이 역할의 플레이어가 게임 마스터가 볼 수 없는 비공개 귓속말을 보낼 수 있도록 허용합니다.",
-"PERMISSION.NoteCreate": "맵 노트 생성",
-"PERMISSION.NoteCreateHint": "이 역할을 가진 유저가 자신이 소유한 저널 문서 항목에서 노트를 생성할 수 있도록 허용합니다.",
+"PERMISSION.NoteCreate": "맵 노트 만들기",
+"PERMISSION.NoteCreateHint": "이 역할을 가진 유저가 자신이 소유한 저널 문서 항목에서 노트를 만들기할 수 있도록 허용합니다.",
 "PERMISSION.PingCanvas": "캔버스 핑",
 "PERMISSION.PingCanvasHint": "이 역할을 가진 유저는 핑 애니메이션을 이용해 캔버스 위의 특정 지점을 가리킬 수 있습니다.",
-"PERMISSION.PlaylistCreate": "플레이리스트 생성",
-"PERMISSION.PlaylistCreateHint": "이 역할인 유저가 월드에 새로운 플레이리스트를 생성하도록 허용합니다.",
+"PERMISSION.PlaylistCreate": "플레이리스트 만들기",
+"PERMISSION.PlaylistCreateHint": "이 역할인 유저가 월드에 새로운 플레이리스트를 만들기하도록 허용합니다.",
 "PERMISSION.SettingsModify": "환경 설정 변경",
 "PERMISSION.SettingsModifyHint": "이 역할의 플레이어가 게임 설정을 변경하고 모듈을 켜고 끌 수 있도록 허용합니다.",
 "PERMISSION.ShowCursor": "마우스 커서 표시",
 "PERMISSION.ShowCursorHint": "유저가 캔버스의 어느 지점을 보고 있는지 알려주는 플레이어 마우스 커서 위치를 표시합니다.",
 "PERMISSION.ShowRuler": "거리 측정 표시",
 "PERMISSION.ShowRulerHint": "거리 측정 도구로 거리를 재는 것을 다른 플레이어에게도 보여줍니다.",
-"PERMISSION.TemplateCreate": "측정 템플릿 생성",
-"PERMISSION.TemplateCreateHint": "이 역할의 플레이어가 범위 측정을 위한 템플릿을 생성할 수 있도록 허용합니다.",
-"PERMISSION.TokenCreate": "새 토큰 생성",
+"PERMISSION.TemplateCreate": "측정 템플릿 만들기",
+"PERMISSION.TemplateCreateHint": "이 역할의 플레이어가 범위 측정을 위한 템플릿을 만들기할 수 있도록 허용합니다.",
+"PERMISSION.TokenCreate": "새 토큰 만들기",
 "PERMISSION.TokenCreateHint": "이 역할의 플레이어가 캔버스 위에 자신이 소유한 액터의 토큰을 배치할 수 있도록 허용합니다.",
 "PERMISSION.TokenDelete": "토큰 삭제",
 "PERMISSION.TokenDeleteHint": "이 역할의 유저는 게임 캔버스 위의, 자신이 소유한 액터의 토큰을 삭제할 수 있습니다.",
@@ -2903,7 +2903,7 @@
 "PERMISSION.WallDoorsHint": "이 역할의 플레이어가 벽 레이어에 정의된 문과 상호작용하도록 허용합니다.",
 "PERMISSION.QueryUser": "사용자 쿼리",
 "PERMISSION.QueryUserHint": "이 역할인 사용자는 다른 사용자를 쿼리할 수 있습니다.",
-"PERMISSION.WarningNoCreate": "{document} 을/를 생성할 권한이 없습니다.",
+"PERMISSION.WarningNoCreate": "{document} 을/를 만들기할 권한이 없습니다.",
 
 "REGION": {
   "TABS": {
@@ -2942,16 +2942,16 @@
     }
   },
   "ACTIONS": {
-    "create": "구역 생성",
+    "create": "구역 만들기",
     "update": "구역 수정",
     "delete": "구역 삭제",
-    "shapeCreateFromWalls": "선택 중인 벽의 모양대로 모양 생성",
+    "shapeCreateFromWalls": "선택 중인 벽의 모양대로 모양 만들기",
     "shapeMakeHole": "구멍 만들기",
     "shapeFillHole": "구멍 채우기",
     "shapeMoveUp": "모양 위로 이동하기",
     "shapeMoveDown": "모양 아래로 이동하기",
     "shapeRemove": "모양 삭제",
-    "behaviorCreate": "행동 생성",
+    "behaviorCreate": "행동 만들기",
     "behaviorEdit": "행동 수정",
     "behaviorDelete": "행동 삭제",
     "behaviorEnable": "행동 활성화",
@@ -3029,7 +3029,7 @@
   "LEGEND": {
     "control": "구역 제어",
     "config": "구역 설정",
-    "create": "구역 생성",
+    "create": "구역 만들기",
     "delete": "구역 삭제",
     "empty": "없음",
     "filter": "구역 필터",
@@ -3062,7 +3062,7 @@
     }
   },
   "ACTIONS": {
-    "create": "구역 행동 생성",
+    "create": "구역 행동 만들기",
     "update": "구역 행동 수정",
     "delete": "구역 행동 삭제"
   },
@@ -3216,24 +3216,24 @@
 "SIDEBAR.Duplicate": "복제",
 "SIDEBAR.Edit": "편집",
 "SIDEBAR.Export": "데이터 내보내기",
-"SIDEBAR.Create": "{type} 생성",
+"SIDEBAR.Create": "{type} 만들기",
 "SIDEBAR.Search": "{types} 검색",
 "SIDEBAR.DirectoryTitle": "{type} 디렉토리",
 "SIDEBAR.Documentation": "Foundry VTT 안내 문서",
 "SIDEBAR.Wiki": "Foundry VTT 커뮤니티 위키",
 
 "SIDEBAR.ACTIONS.CREATE": {
-  "Actor": "액터 생성",
-  "Adventure": "어드벤처 생성",
-  "Cards": "카드 스택 생성",
-  "Compendium": "컴펜디엄 생성",
-  "Folder": "폴더 생성",
-  "Item": "아이템 생성",
-  "JournalEntry": "저널 생성",
-  "Macro": "매크로 생성",
-  "Playlist": "재생목록 생성",
-  "RollTable": "굴림표 생성",
-  "Scene": "장면 생성"
+  "Actor": "액터 만들기",
+  "Adventure": "어드벤처 만들기",
+  "Cards": "카드 스택 만들기",
+  "Compendium": "컴펜디엄 만들기",
+  "Folder": "폴더 만들기",
+  "Item": "아이템 만들기",
+  "JournalEntry": "저널 만들기",
+  "Macro": "매크로 만들기",
+  "Playlist": "재생목록 만들기",
+  "RollTable": "굴림표 만들기",
+  "Scene": "장면 만들기"
 },
 
 "SIDEBAR.COMPENDIUM.LABELS": {
@@ -3369,7 +3369,7 @@
 "TEMPLATE.ConeTypeSettingHint": "부채꼴형 템플릿에 어떤 효과를 적용할지 선택합니다. 격자 기반 템플릿 모양 옵션이 활성화되어있으면 이 설정은 무효화됩니다.",
 "TEMPLATE.ConeTypeFlat": "평평한 호",
 "TEMPLATE.ConeTypeRound": "둥근 호",
-"TEMPLATE.SubmitCreate": "측정 템플릿 생성",
+"TEMPLATE.SubmitCreate": "측정 템플릿 만들기",
 "TEMPLATE.SubmitUpdate": "측정 템플릿 업데이트",
 "TEMPLATE.GridTemplatesSetting": "격자 기반 템플릿 모양",
 "TEMPLATE.GridTemplatesSettingHint": "유클리드형 모양 대신 격자 기반으로 템플릿을 적용할지 여부를 설정합니다.",
@@ -3401,7 +3401,7 @@
 "TILE.OcclusionModeVision": "시야 (토큰 시야)",
 "TILE.VideoOptions": "비디오 옵션",
 "TILE.ACTIONS": {
-  "CREATE": "타일 생성",
+  "CREATE": "타일 만들기",
   "UPDATE": "타일 수정"
 },
 "TILE.SECTIONS": {
@@ -3930,7 +3930,7 @@
 "USERS.Role": "유저 역할",
 "USERS.UserName": "유저 이름",
 "USERS.KeyShow": "비밀번호 보기",
-"USERS.Create": "새 유저 생성",
+"USERS.Create": "새 유저 만들기",
 "USERS.Delete": "유저 제거",
 "USERS.DeleteName": "사용자 삭제: {name}",
 "USERS.Launch": "게임 세션 실행",
@@ -4160,7 +4160,7 @@
     "minimal": "미니멀"
   },
   "Title": {
-    "Create": "월드 생성",
+    "Create": "월드 만들기",
     "Update": "{world} : 월드 편집함"
   },
   "SubmitUpdate": "월드 갱신",
