@@ -602,7 +602,7 @@
 
 "COMPENDIUM.Name": "컴펜디엄 명칭",
 "COMPENDIUM.Create": "컴펜디엄 만들기",
-"COMPENDIUM.CreateHint": "현재 월드에 새 컴펜디엄 팩을 만들기합니다.",
+"COMPENDIUM.CreateHint": "현재 월드에 새 컴펜디엄 팩을 생성합니다.",
 "COMPENDIUM.FilterDocuments": "도큐먼트 타입으로 필터링",
 "COMPENDIUM.ClearFilters": "필터 초기화",
 "COMPENDIUM.Delete": {
