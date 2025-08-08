@@ -1062,7 +1062,7 @@
 "EFFECT.MODE_UPGRADE": "업그레이드",
 "EFFECT.MODE_OVERRIDE": "덮어쓰기",
 "EFFECT.TransferLegacy": "액터에 이펙트를 옮기기",
-"EFFECT.TransferHintLegacy": "활성화 시, 이 이펙트의 부모 아이템이 액터에 만들기될 때 이 이펙트도 같이 복사됩니다. 부모 아이템이 삭제되면 이펙트도 같이 삭제됩니다.",
+"EFFECT.TransferHintLegacy": "활성화 시, 이 이펙트의 부모 아이템이 액터에 생성될 때 이 이펙트도 같이 복사됩니다. 부모 아이템이 삭제되면 이펙트도 같이 삭제됩니다.",
 "EFFECT.DurationTurns": "효과 지속시간 (턴)",
 "EFFECT.StartTurns": "효과 시작 턴",
 "EFFECT.ChangeKey": "어트리뷰트 키",
