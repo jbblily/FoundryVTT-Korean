@@ -1219,7 +1219,7 @@
 "EDITOR.LinkText": "텍스트 연결",
 "EDITOR.LinkTitle": "제목 연결",
 "EDITOR.LinkInsert": "링크 삽입",
-"EDITOR.ProseMirrorBadArguments": "ProseMirror 인스턴스를 만들기하려면 문서와 이름 둘 다 필요합니다. ",
+"EDITOR.ProseMirrorBadArguments": "ProseMirror 인스턴스를 만들려면 문서와 이름 둘 다 필요합니다. ",
 "EDITOR.TinyMCE": "TinyMCE",
 "EDITOR.Markdown": "마크다운",
 "EDITOR.Reveal": "보이기",
