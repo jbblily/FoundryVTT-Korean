@@ -2818,7 +2818,7 @@
 "FOLDER.CreateTable": "굴림표 만들기",
 "FOLDER.CreateTableConfirm": {
   "Title": "굴림표 만들기: {folder}",
-  "Question": "이 폴더의 내용을 표 결과로 사용하여 새 굴림표 문서를 만들기하시겠습니까?"
+  "Question": "이 폴더의 내용을 표 결과로 사용하여 새 굴림표 문서를 만들겠습니까?"
 },
 "FOLDER.InvalidDocumentType": "\"{type}\" 타입은 이 폴더에 유효하지 않습니다.",
 "FOLDER.ExceededMaxDepth": "{depth} 단계보다 더 하위에 폴더를 만들 수 없습니다.",
@@ -2860,7 +2860,7 @@
 "PERMISSION.BroadcastVideo": "카메라 송출 허용",
 "PERMISSION.BroadcastVideoHint": "음성/영상 대화 기능을 사용할 때 이 역할의 플레이어가 카메라를 송출할 수 있도록 허용합니다.",
 "PERMISSION.ActorCreate": "새 액터 만들기",
-"PERMISSION.ActorCreateHint": "이 역할의 플레이어가 월드에 새 액터를 만들기할 수 있도록 허용합니다.",
+"PERMISSION.ActorCreateHint": "이 역할의 플레이어가 월드에 새 액터를 만들 수 있도록 허용합니다.",
 "PERMISSION.CardsCreate": "카드 만들기",
 "PERMISSION.CardsCreateHint": "이 역할인 유저는 월드에 새로운 카드 도큐먼트를 만들기할 수 있다.",
 "PERMISSION.DrawingCreate": "그리기 도구 사용",
