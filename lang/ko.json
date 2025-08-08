@@ -1325,7 +1325,7 @@
   }
 },
 
-"GAME.Paused": "게임이 일시정지 되었습니다.",
+"GAME.Paused": "게임이 일시정지되었습니다.",
 "GAME.PausedWarning": "게임이 일시정지 중일 때에는 이 동작을 수행할 수 없습니다.",
 "GAME.ReturnSetup": "셋업으로 돌아가기",
 "GAME.ReturnSetupActiveUser": "현재 이 월드에 접속 중인 유저가 있으며, 그 유저의 연결이 끊기게 됩니다. 그래도 계속 진행하시겠습니까?",
