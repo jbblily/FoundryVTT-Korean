@@ -2486,7 +2486,7 @@
     "CopyingPl": "백업 복사 중",
     "CreateBackup": "{title} 백업 생성 중",
     "CreateBackupComplete": "{title} 백업 생성함",
-    "CreateBackupFailure": "'{title}' 패키지의 백업 만들기에 실패했습니다. 세부사항을 보려면 콘솔(F12)을 확인하세요.",
+    "CreateBackupFailure": "'{title}' 패키지의 백업 생성에 실패했습니다. 세부사항을 보려면 콘솔(F12)을 확인하세요.",
     "CreateSnapshot": "스냅샷 만들기",
     "CreateSnapshotComplete": "스냅샷이 만들기되었습니다.",
     "CreateSnapshotFailure": "스냅샷 만들기에 실패했습니다. 세부사항을 보려면 콘솔(F12)을 확인하세요.",
