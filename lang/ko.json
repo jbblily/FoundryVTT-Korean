@@ -1684,7 +1684,7 @@
 "MODMANAGE.UnavailableDocuments": "이 모듈을 비활성화하면 다음과 같은 문서를 사용할 수 없게 됩니다.",
 
 "NOTE.Create": "맵 노트 만들기",
-"NOTE.CreateJournal": "해당 저널을 만들기하겠습니까?",
+"NOTE.CreateJournal": "해당 저널을 만들겠습니까?",
 "NOTE.Custom": "커스텀",
 "NOTE.CustomIcon": "커스텀 아이콘",
 "NOTE.Unknown": "알 수 없음",
