@@ -2136,7 +2136,7 @@
 "SETTINGS.DefaultSheetsN": "도큐먼트 시트 기본값",
 "SETTINGS.DefaultSheetsL": "기본값 시트 설정",
 "SETTINGS.DefaultSheetsH": "이 월드에서 쓰일 모든 도큐먼트 타입의 기본값이 될 시트를 설정한다.",
-"SETTINGS.FontConfigN": "글꼴 폰트",
+"SETTINGS.FontConfigN": "추가 폰트",
 "SETTINGS.FontConfigL": "추가 글꼴 설정",
 "SETTINGS.FontConfigH": "이 월드에 글꼴을 추가합니다.",
 "SETTINGS.PhotosensitiveModeN": "광과민성 모드",
