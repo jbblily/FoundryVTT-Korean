@@ -767,7 +767,7 @@
   "KeyboardControls": "키보드 조작법",
   "GameMenu": "메인 메뉴 열기/닫기",
   "GameClose": "열린 창 모두 닫기",
-  "GamePause": "게임 일시정지/재개 (GM)",
+  "GamePause": "게임 일시정지 전환",
   "CanvasCancel": "이동 경로 그리기 취소",
   "CanvasMove": "오브젝트 이동",
   "CanvasPan": "캔버스 이동",
