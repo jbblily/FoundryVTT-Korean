@@ -879,7 +879,7 @@
   "DeletedObjects": "{type} 오브젝트 {count} 개를 삭제했습니다.",
   "UndoCreateObjects": "{type} 오브젝트 {count} 개의 생성을 취소했습니다.",
   "UndoDeleteObjects": "{type} 오브젝트 {count} 개의 삭제를 취소했습니다.",
-  "EmptyUndoHistory": "이 이상 실행취소할 수 없습니다.",
+  "EmptyUndoHistory": "{type} 오브젝트 실행이력의 마지막까지 실행취소했습니다. 이 이상 실행취소할 수 없습니다.",
   "ObjectIsLocked": "{type} 오브젝트가 잠겨있어 해당 작업을 실행할 수 없습니다.",
   "ObjectConfigured": "다른 오브젝트 수정 중에는 해당 작업을 실행할 수 없습니다."
 },
